@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    margin: 0;
+}
+
+.gallery{
+    display:flex;
+    justify-content: center;
+}
+
+img{
+ margin: 5px;   
+}
+
+article{
+    border-top: 3px dashed darkblue;
+}
+
+h1 a{
+    margin-left: 55px;
+}
+
+header {
+    
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+h2 {
+    background-color: rgba(0, 255, 64, 0.952);
+    color: dark;
+    font-size: 30px;
+    padding: 10px;
+}
