@@ -11,8 +11,8 @@ body {
 }
 
 img{
- margin: 5px;
- width: 450px;
+ margin: 5px; 
+ width: 350px;  
 }
 
 article{
@@ -23,51 +23,12 @@ h1 a{
     margin-left: 55px;
 }
 
-header {
-    
-}
-
-.button {
-    
-}
-
-nav {
-    
-}
-
 .nav-link {
     text-decoration: none;
 }
 
-h1 {
-
-}
-
 p {
-    font-size: 20px;
-}
-
-.info {
-   
-}
-
-article {
-   
-}
-
-.article-but {
-    
-}
-
-footer {
-   
-}
-
-footer a {
-    
-}
-
-footer p {
+    font-size: 10px;
 }
 
 h2 {
