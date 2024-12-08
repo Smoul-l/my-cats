@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     color: white;
     margin: 0;
-    background-color: #14580D;
+    background-color: #495BE7;
 }
 
 .gallery{
@@ -37,3 +37,13 @@ h2 {
     font-size: 30px;
     padding: 10px;
 }
+
+a{
+   text-decoration: none; 
+    background-color: #263CDF;
+    color: #97A2F4;
+    border-radius: 15px; 
+    padding: 10px;
+    margin: 20px;
+}
+
